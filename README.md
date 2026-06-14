@@ -1,5 +1,5 @@
 # Pulse-s-GameServer-Leaked-
-New pulse owners have leaked this themselfs!\
+New pulse owners have leaked this themselfs!
 
 The one who leaked is the owner of this game Server! 
 
