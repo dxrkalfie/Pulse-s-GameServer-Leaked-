@@ -1,0 +1,38 @@
+﻿  GameMode.cpp
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\Utils.h(146,25): warning C4244: 'initializing': conversion from 'uintptr_t' to 'unsigned char', possible loss of data
+  (compiling source file '/GameMode.cpp')
+  
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\API.h(89,105): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/GameMode.cpp')
+  
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\API.h(89,63): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/GameMode.cpp')
+  
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\API.h(144,109): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/GameMode.cpp')
+  
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\API.h(144,67): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/GameMode.cpp')
+  
+  Misc.cpp
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\Utils.h(146,25): warning C4244: 'initializing': conversion from 'uintptr_t' to 'unsigned char', possible loss of data
+  (compiling source file '/Misc.cpp')
+  
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\API.h(89,105): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Misc.cpp')
+  
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\API.h(89,63): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Misc.cpp')
+  
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\API.h(144,109): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Misc.cpp')
+  
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\API.h(144,67): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file '/Misc.cpp')
+  
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\Exlo-GS\Inventory.cpp(138): warning C4172: returning address of local variable or temporary : ItemEntry
+  All 1147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Exlo-GS.vcxproj -> C:\Users\onbro\OneDrive\Desktop\Sources\Exlo\x64\Release\Exlo-GS.dll
