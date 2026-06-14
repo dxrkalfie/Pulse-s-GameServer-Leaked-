@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exlo-GS/Exlo-GS.vcxproj" Id="825f12d6-93a1-4aac-ac44-2cabd6766ee7" />
+</Solution>
